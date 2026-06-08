@@ -7,9 +7,8 @@ I enjoy developing backend systems, designing databases, building authentication
 ## 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,postgresql,sqlite,git,github,html,css" />
-</p>
-
+  <img src="https://skillicons.dev/icons?i=python,django,flask,postgresql,git,github,html,css" />
+</p> 
 ## 💼 What I Work With
 
 - Backend Development with Python
