@@ -2,7 +2,7 @@
 
 Backend Developer focused on building web applications and APIs with Python.
 
-I enjoy developing backend systems, designing databases, building authentication workflows, and integrating payment solutions into web applications.
+I build and maintain backend systems, designing databases, building authentication workflows, and integrating payment solutions into web applications.
 
 ## 🚀 Tech Stack
 
@@ -18,12 +18,6 @@ I enjoy developing backend systems, designing databases, building authentication
 - Authentication & Session Management
 - Stripe Payment Integration
 - Git & GitHub
-
-## 📚 Currently Learning
-
-- Advanced Django Development
-- Backend Architecture & Scalability
-- Database Design & Optimization
 
 ## 📫 Connect With Me
 
