@@ -27,5 +27,5 @@ I enjoy developing backend systems, designing databases, building authentication
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn URL]
+- LinkedIn: www.linkedin.com/in/daniel-jackson-127b90353
 - Email: zorlammmm@gmail.com
