@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Daniel Jackson 👋
 
-<!--
-**Zorlam/Zorlam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer focused on building web applications and APIs with Python.
 
-Here are some ideas to get you started:
+I enjoy developing backend systems, designing databases, building authentication workflows, and integrating payment solutions into web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,postgresql,sqlite,git,github,html,css" />
+</p>
+
+## 💼 What I Work With
+
+- Backend Development with Python
+- Django & Flask Web Applications
+- REST API Development
+- PostgreSQL & SQL Databases
+- Authentication & Session Management
+- Stripe Payment Integration
+- Git & GitHub
+
+## 📚 Currently Learning
+
+- Advanced Django Development
+- Backend Architecture & Scalability
+- Database Design & Optimization
+
+## 📫 Connect With Me
+
+- LinkedIn: [Your LinkedIn URL]
+- Email: zorlammmm@gmail.com
