@@ -1,4 +1,4 @@
-# Zorlam 👋
+# Zorlam 
 
 Backend Developer focused on building web applications and APIs with Python.
 
