@@ -7,7 +7,7 @@ I build and maintain backend systems, designing databases, building authenticati
 ##  Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,postgresql,git,github,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,postgresql,docker,linux,nginx,redis,git,github,html,css" />
 </p> 
 ##  What I Work With
 
