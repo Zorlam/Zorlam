@@ -1,6 +1,6 @@
 # Zorlam 
 
-Backend Developer focused on building web applications and APIs with Python.
+Backend Developer, building web applications and APIs with Python.
 
 I build and maintain backend systems, designing databases, building authentication workflows, and integrating payment solutions into web applications.
 
@@ -15,11 +15,25 @@ I build and maintain backend systems, designing databases, building authenticati
 - Django & Flask Web Applications
 - REST API Development
 - PostgreSQL & SQL Databases
-- Authentication & Session Management
-- Stripe Payment Integration
+- Authentication & JWT-based Security
+- Payment Integrations
+- Docker & Docker Compose
+- Redis & WebSocket-based Applications
+- Linux & Nginx
 - Git & GitHub
+- Automated Testing with pytest
+- GitHub Actions & CI
+- Kubernetes Deployment
 
 ##  Connect With Me
 
-- LinkedIn: www.linkedin.com/in/daniel-jackson-127b90353
-- Email: zorlammmm@gmail.com
+## Connect With Me
+
+<a href="https://www.linkedin.com/in/daniel-jackson-127b90353">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:zorlammmm@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
