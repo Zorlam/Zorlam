@@ -9,7 +9,7 @@ I build and maintain backend systems, designing databases, building authenticati
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,django,flask,postgresql,docker,linux,nginx,redis,git,github,html,css" />
 </p> 
-##  What I Work With
+## What I Work With
 
 - Backend Development with Python
 - Django & Flask Web Applications
